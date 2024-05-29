@@ -14,3 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+## 📈 GitHub
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=davidferreirafz&layout=compact&theme=radical)
+![Estatísticas de contribuições](https://github-readme-streak-stats.herokuapp.com/?user=davidferreirafz&theme=radical)
+
+
+
+## 📫 
+- LinkedIn: [davidferreirafz](https://linkedin.com/in/davidferreirafz)
+
